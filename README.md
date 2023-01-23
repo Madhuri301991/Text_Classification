@@ -8,5 +8,5 @@ Text_Classification:
 - LinearSVC provides better accuracy than naive bayes classifier. 
 - Test the classifier on new data. Evaluate performance. 
 
---> Text classification - classification of movies reviews into positive and negative labels. Here the dataset already contains the label column.
---> Sentiment analysis - classify movies reviews into positive and negative label where the dataset doesnt have pre-label. It is done using NLTK package and applied directly to unlabeled text data. 
+- --> Text classification - classification of movies reviews into positive and negative labels. Here the dataset already contains the label column.
+- --> Sentiment analysis - classify movies reviews into positive and negative label where the dataset doesnt have pre-label. It is done using NLTK package and applied directly to unlabeled text data. 
